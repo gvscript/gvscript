@@ -12,8 +12,8 @@
   
 ---
 
-<p>I HAVE A DREAM</p>
-<p>I'M A DREAMER</p>
+<h3 align="center">I HAVE A DREAM</h3>
+<h3 align="center">I'M A DREAMER</h3>
 
 <p>Um apaixonado por histórias de pessoas reais com o objetivo de utilizar a tecnologia como ferramenta de transformação, de inclusão social para um mundo melhor e mais igualitário.</p>
 
