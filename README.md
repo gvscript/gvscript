@@ -1,6 +1,6 @@
 <img align="center" alt="wile alive" heigth="10" width="100%" src="https://i.pinimg.com/originals/c9/e6/13/c9e6136aeb1dd0a7ef1af829cb4523e3.gif">
 
-<h1>Seja bem vindo. Eu sou o Gabriel. <img alt="Hi" width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/man-raising-hand_1f64b-200d-2642-fe0f.png"></h1>
+<h1>Seja bem vindx. Eu sou o Gabriel. <img alt="Hi" width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/man-raising-hand_1f64b-200d-2642-fe0f.png"></h1>
 
 <h3> Programador Full-Stack</h3>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=gvscript&repo=gvscript&countColorcountColor&countColor=%237B1E7B"/>
