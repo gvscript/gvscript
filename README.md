@@ -39,5 +39,30 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvscript&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+---
+
+### Habilidades ⚙️
+  
+<div align="center">
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Gv-ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+    <img align="center" alt="Gv-trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
+    <img align="center" alt="Gv-slack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">
+    <img align="center" alt="Gv-github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+    <img align="center" alt="Gv-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+    <img align="center" alt="Gv-VScode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+    <img align="center" alt="Gv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Gv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Gv-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Gv-Redux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
+    <img align="center" alt="Gv-Jest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+    <img align="center" alt="Gv-mongodb" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="Gv-my SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+    <img align="center" alt="Gv-nodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Gv-nodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+    
+  </div>
+</div>
 
 
