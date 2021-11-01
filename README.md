@@ -4,7 +4,8 @@
 <h3> Programador Full-Stack</h3>
 <div>
   <a href = "mailto:g.viana87@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gvscript/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gvscript/" target="_blank"><img width="37" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" target="_blank"></a> 
+   <a href = "https://open.spotify.com/user/22ds4rya3vq2z4geww5vt2l5a"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 </div>
   
 ##
@@ -24,7 +25,7 @@
 
 <div align="center">
   <a href="https://github.com/gvscript">
-  <img height="140em" src=""/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gvscript&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvscript&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
