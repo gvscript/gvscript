@@ -2,6 +2,10 @@
 
 <h1>Seja bem vindo. Eu sou o Gabriel. <img alt="Hi" width="40" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/samsung/306/man-raising-hand_1f64b-200d-2642-fe0f.png"></h1>
 <h3> Programador Full-Stack</h3>
+<div>
+   <a href = "mailto:g.viana87@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"       target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gvscript/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
   
 ##
 
