@@ -29,7 +29,8 @@
 
 <img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22ds4rya3vq2z4geww5vt2l5a)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/24n09ou7wEszYzPvyfyUsr)
+[![Spotify](https://novatorem.gvscript.vercel.app/api/spotify.py)](https://open.spotify.com/user/22ds4rya3vq2z4geww5vt2l5a)
 
 ---
 
