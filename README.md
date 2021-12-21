@@ -63,7 +63,7 @@
     <img align="center" alt="Gv-my SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Gv-nodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Gv-nodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-    
+    <img align="center" alt="Gv-express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
   </div>
 </div>
 
