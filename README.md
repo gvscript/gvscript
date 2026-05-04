@@ -13,24 +13,17 @@
 ---
 
 <h3 align="center">I HAVE A DREAM</h3>
-<h3 align="center">I'M A DREAMER</h3>
+<h3 align="center">BUILDING IT WITH CODE</h3>
 
-<p>Um apaixonado por histórias de pessoas reais com o objetivo de utilizar a tecnologia como ferramenta de transformação, de inclusão social para um mundo melhor e mais igualitário.</p>
+Desenvolvedor Front-End com experiência em aplicações de alto tráfego, focado em performance, monetização e experiência do usuário.
+Atualmente atuando com AEM, responsável pela otimização da integração com o GAM, Amazon e Prebid, com impacto direto no aumento de receita e eficiência.
 
-- 🎓 Formado em Publicidade e Propaganda - PUC-SP
-- 🌱 Em transição de carreira para tecnologia
-- ⏳ Estudante de desenvolvimento web full-stack na Trybe
-- 😁 Apanhando diariamente para códigos de computador, com honra e sem chorar 
-- 😉 Comunicação, respeito e empatia sempre
+Background em comunicação (PUC-SP), trazendo uma visão orientada a produto, clareza e experiência — conectando tecnologia, negócio e pessoas.
 
----
-
-### Spotify Playing 🎧
-
-<img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/24n09ou7wEszYzPvyfyUsr)
-[![Spotify](https://novatorem.gvscript.vercel.app/api/spotify.py)](https://open.spotify.com/user/22ds4rya3vq2z4geww5vt2l5a)
+💻 React, Vue, TypeScript, Tailwind
+⚙️ AEM, integrações com GAM, Amazon e Prebid
+🚀 Performance, monetização e otimização de carregamento
+🤝 Comunicação, colaboração e melhoria contínua
 
 ---
 
