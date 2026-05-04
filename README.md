@@ -6,7 +6,7 @@
 </h1>
 
 <p>
-  <strong>Front-End Developer • AEM • Performance & Monetização</strong>
+  <strong>Conectando tecnologia, produto e negócio.</strong>
 </p>
 
 <p>
