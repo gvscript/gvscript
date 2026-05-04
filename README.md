@@ -20,22 +20,14 @@ Atualmente atuando com AEM, responsável pela otimização da integração com o
 
 Background em comunicação (PUC-SP), trazendo uma visão orientada a produto, clareza e experiência — conectando tecnologia, negócio e pessoas.
 
-💻 React, Vue, TypeScript, Tailwind
-⚙️ AEM, integrações com GAM, Amazon e Prebid
-🚀 Performance, monetização e otimização de carregamento
-🤝 Comunicação, colaboração e melhoria contínua
+- 💻 React, Vue, TypeScript, Tailwind
+- ⚙️ AEM, integrações com GAM, Amazon e Prebid
+- 🚀 Performance, monetização e otimização de carregamento
+- 🤝 Comunicação, colaboração e melhoria contínua
 
 ---
 
-<div align="center">
-  <a href="https://github.com/gvscript">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=gvscript&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvscript&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
----
-
-### Habilidades ⚙️
+### Ferramentas/ Tecnologias ⚙️
   
 <div align="center">
   <div style="display: inline_block"><br>
